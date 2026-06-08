@@ -48,7 +48,7 @@ chess-bot-board/
 
 ## Stato
 
-Pianificazione — pre-acquisto componenti
+In fase di revisione
 
 ## Autore
 
